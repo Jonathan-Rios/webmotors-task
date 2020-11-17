@@ -1,2 +1,0 @@
-# webmotors-task
-Desafio WebMotors
